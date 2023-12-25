@@ -1,0 +1,79 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    margin: 0px;
+    height: 140px;
+}
+
+.title {
+    color: yellowgreen;
+    font-family: sans-serif;
+    font-size: 45px;
+}
+
+.round-result {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.round-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.plrCompScoreContainer {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.Box {
+    width: 200px;
+    padding: 10px;
+
+}
+
+body {
+    background-color: darkgray;
+    margin: 0px;
+}
+
+.round-result {
+    font-size: 40px;
+}
+
+.Buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 20px;
+}
+
+.sign {
+    font-size: 80px;
+}
+
+.btn {
+    width: 200px;
+    padding: 15px;
+    height: 170px;
+}
+
+.main {
+    margin-top: 30px;
+}
+
+.Score {
+    font-size: 30px;
+    text-align: center;
+}
+
+.Sign {
+    margin: 10px;
+    font-size: 85px;
+    text-align: center;
+}
